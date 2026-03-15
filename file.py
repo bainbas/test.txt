@@ -1,2 +1,2 @@
-python 'Hello'
+print 'Hello'
 
